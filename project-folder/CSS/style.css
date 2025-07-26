@@ -24,6 +24,7 @@ html, body {
     font-size: 17px;
     font-style: normal;
     display: inline-block;
+    letter-spacing: normal;
 }
 .footer {
     background-color: black;
