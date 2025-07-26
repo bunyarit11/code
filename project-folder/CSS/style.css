@@ -1,0 +1,116 @@
+index
+html, body {
+    background-color: rgb(92, 158, 212);
+}
+.head {
+    background-color: black;
+    margin: 0;
+    padding: 20px;
+    color: white;
+    font-style: normal;
+    text-align: center;
+    box-shadow: 8px 8px 12px 0cap rgb(255, 0, 0);
+}
+.main-content {
+    margin: auto;
+    max-width: 700px;
+}
+.container {
+    background-color: lightgrey;
+    padding: 20px;
+    margin: 30px;
+}
+.container {
+    font-size: 17px;
+    font-style: normal;
+    display: inline-block;
+}
+.footer {
+    background-color: black;
+    margin: 0;
+    padding: 20px;
+    color: white;
+    font-style: normal;
+    text-align: center;
+}
+
+
+.PlheaderY {
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 20px;
+    font-style: normal;
+    text-align: center;
+    box-shadow: 8px 8px 12px 0cap rgb(255, 0, 0);
+}
+.profile{
+    text-align: center;
+} 
+.mainprofile {
+    margin: auto;
+    max-width: 700px;
+}
+.containerPl {
+    background-color: lightgray;
+    padding: 20px;
+    margin: 30px;
+}
+.containerPl {
+    font-size: 17px;
+    font-style: normal;
+    display: inline-block;
+}
+.footerPl {
+    background-color: black;
+    margin: 0;
+    padding: 20px;
+    color: white;
+    font-style: normal;
+    text-align: center;
+}
+.image-gallery {
+    display: flex;
+    gap: 20px;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.image-gallery img {
+    width: 200px;
+    height: auto;
+    border: 3px solid #555;
+    border-radius: 10px;
+}
+
+
+.table th,
+.table td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+.table {
+    border-collapse: collapse;
+    background-color: whitesmoke;
+    margin: auto;
+    padding: 20px;
+    font-style: normal;
+}
+.headtable1 {
+    background-color: black;
+    margin: 0;
+    padding: 20px;
+    color: white;
+    font-style: normal;
+    text-align: center;
+    box-shadow: 8px 8px 12px 0cap rgb(255, 0, 0);
+}
+.headtable2 {
+    background-color:white;
+    margin: 5px;
+    padding: 20px;
+    color: black;
+    font-style: normal;
+    text-align: center;
+}
